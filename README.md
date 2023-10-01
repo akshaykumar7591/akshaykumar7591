@@ -1,3 +1,4 @@
+![logo](https://github.com/akshaykumar7591/akshaykumar7591/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 <hr>
 <h3 align="center">Passionate Software Developer with a deep love for creating innovation solution and pushing the boundaries of technology.</h3>
